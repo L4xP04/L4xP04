@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Security<br>🎯 Goals: OWASP<br>🎲 Fun fact: Playing With Machines</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Security<br>🎯 Goals: Security+<br>🎲 Fun fact: Playing With Machines</p>
 
  <img src="https://tryhackme-badges.s3.amazonaws.com/K4xP04.png" alt="TryHackMe">
 
